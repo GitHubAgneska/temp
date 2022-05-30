@@ -1,0 +1,20 @@
+{
+  "name": "admin-squeleton",
+  "proxy": "http://localhost:5000",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server --watch server/db.json --port 5000 --middlewares server/range.js",
+    "client": "npm start --prefix react-admin-squeleton",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.2.1",
+    "json-server": "^0.17.0"
+  }
+}

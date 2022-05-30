@@ -1,0 +1,315 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Leanne",
+      "lastName": "Graham",
+      "email": "Sincere@april.biz",
+      "company": {
+        "location": "FR",
+        "name": "Romaguera-Crona"
+      },
+      "region": "A",
+      "nation": "A",
+      "contract": {
+        "id": "87450999",
+        "type": "ABCD",
+        "issued": "01/01/2000",
+        "lastModified": "05/05/2022"
+      },
+      "permissions": {
+        "types": [
+          {
+            "name": "R",
+            "status": "true"
+          },
+          {
+            "name": "RW",
+            "status": "false"
+          }
+        ],
+        "issuedBy": "xyz",
+        "lastModified": "06/06/2022"
+      }
+    },
+    {
+      "id": 2,
+      "firstName": "Ervin",
+      "lastName": " Howell",
+      "email": "Shanna@melissa.tv",
+      "company": {
+        "location": "FR",
+        "name": "Deckow-Crist"
+      },
+      "region": "A",
+      "nation": "A",
+      "contract": {
+        "id": "87450999",
+        "type": "ABCD",
+        "issued": "01/01/2000",
+        "lastModified": "05/05/2022"
+      },
+      "permissions": {
+        "types": [
+          {
+            "R": "true"
+          },
+          {
+            "RW": "false"
+          }
+        ],
+        "issuedBy": "xyz",
+        "lastModified": "06/06/2022"
+      }
+    },
+    {
+      "id": 3,
+      "firstName": "Clementine",
+      "lastName": "Bauch",
+      "email": "Nathan@yesenia.net",
+      "company": {
+        "location": "FR",
+        "name": "Romaguera-Jacobson"
+      },
+      "region": "A",
+      "nation": "A",
+      "contract": {
+        "id": "87450999",
+        "type": "ABCD",
+        "issued": "01/01/2000",
+        "lastModified": "05/05/2022"
+      },
+      "permissions": {
+        "types": [
+          {
+            "R": "true"
+          },
+          {
+            "RW": "false"
+          }
+        ],
+        "issuedBy": "xyz",
+        "lastModified": "06/06/2022"
+      }
+    },
+    {
+      "id": 4,
+      "firstName": "Patricia",
+      "lastName": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "company": {
+        "location": "FR",
+        "name": "Robel-Corkery"
+      },
+      "region": "A",
+      "nation": "A",
+      "contract": {
+        "id": "87450999",
+        "type": "ABCD",
+        "issued": "01/01/2000",
+        "lastModified": "05/05/2022"
+      },
+      "permissions": {
+        "types": [
+          {
+            "R": "true"
+          },
+          {
+            "RW": "false"
+          }
+        ],
+        "issuedBy": "xyz",
+        "lastModified": "06/06/2022"
+      }
+    },
+    {
+      "id": 5,
+      "firstName": "Chelsey",
+      "lastName": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "company": {
+        "location": "FR",
+        "name": "Keebler LLC"
+      },
+      "region": "A",
+      "nation": "A",
+      "contract": {
+        "id": "87450999",
+        "type": "ABCD",
+        "issued": "01/01/2000",
+        "lastModified": "05/05/2022"
+      },
+      "permissions": {
+        "types": [
+          {
+            "R": "true"
+          },
+          {
+            "RW": "false"
+          }
+        ],
+        "issuedBy": "xyz",
+        "lastModified": "06/06/2022"
+      }
+    },
+    {
+      "id": 6,
+      "firstName": "Mrs. Dennis Schulist",
+      "lastName": "Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "company": {
+        "location": "FR",
+        "name": "Considine-Lockman"
+      },
+      "region": "A",
+      "nation": "A",
+      "contract": {
+        "id": "87450999",
+        "type": "ABCD",
+        "issued": "01/01/2000",
+        "lastModified": "05/05/2022"
+      },
+      "permissions": {
+        "types": [
+          {
+            "R": "true"
+          },
+          {
+            "RW": "false"
+          }
+        ],
+        "issuedBy": "xyz",
+        "lastModified": "06/06/2022"
+      }
+    },
+    {
+      "id": 7,
+      "firstName": "Kurtis",
+      "lastName": "Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "company": {
+        "location": "FR",
+        "name": "Johns Group"
+      },
+      "region": "A",
+      "nation": "A",
+      "contract": {
+        "id": "87450999",
+        "type": "ABCD",
+        "issued": "01/01/2000",
+        "lastModified": "05/05/2022"
+      },
+      "permissions": {
+        "types": [
+          {
+            "R": "true"
+          },
+          {
+            "RW": "false"
+          }
+        ],
+        "issuedBy": "xyz",
+        "lastModified": "06/06/2022"
+      }
+    },
+    {
+      "id": 8,
+      "firstName": "Nicholas Runolfsdottir",
+      "lastName": "Nienow",
+      "email": "Sherwood@rosamond.me",
+      "company": {
+        "location": "FR",
+        "name": "Abernathy Group"
+      },
+      "region": "A",
+      "nation": "A",
+      "contract": {
+        "id": "87450999",
+        "type": "ABCD",
+        "issued": "01/01/2000",
+        "lastModified": "05/05/2022"
+      },
+      "permissions": {
+        "types": [
+          {
+            "R": "true"
+          },
+          {
+            "RW": "false"
+          }
+        ],
+        "issuedBy": "xyz",
+        "lastModified": "06/06/2022"
+      }
+    },
+    {
+      "id": 9,
+      "firstName": "Glenna",
+      "lastName": "Reichert",
+      "email": "Chaim_McDermott@dana.io",
+      "company": {
+        "location": "FR",
+        "name": "Yost and Sons"
+      },
+      "region": "A",
+      "nation": "A",
+      "contract": {
+        "id": "87450999",
+        "type": "ABCD",
+        "issued": "01/01/2000",
+        "lastModified": "05/05/2022"
+      },
+      "permissions": {
+        "types": [
+          {
+            "R": "true"
+          },
+          {
+            "RW": "false"
+          }
+        ],
+        "issuedBy": "xyz",
+        "lastModified": "06/06/2022"
+      }
+    },
+    {
+      "id": 10,
+      "firstName": "Clementina",
+      "lastName": "Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "company": {
+        "location": "FR",
+        "name": "Hoeger LLC"
+      },
+      "region": "A",
+      "nation": "A",
+      "contract": {
+        "id": "87450999",
+        "type": "ABCD",
+        "issued": "01/01/2000",
+        "lastModified": "05/05/2022"
+      },
+      "permissions": {
+        "types": [
+          {
+            "R": "true"
+          },
+          {
+            "RW": "false"
+          }
+        ],
+        "issuedBy": "xyz",
+        "lastModified": "06/06/2022"
+      }
+    },
+    {
+      "contract": {
+        "id": "2022-05-29T11:31:08.205Z"
+      },
+      "commentable": true,
+      "category": "",
+      "permissions": "photography",
+      "id": 11
+    }
+  ]
+}
